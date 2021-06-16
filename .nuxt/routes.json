@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\settings"
+      },
+      {
+        "path": "/edit",
+        "name": "edit",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\edit"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\2021\\\\04.vue\\\\03-vuex-ssr\\\\02-服务端渲染\\\\04-realworld-nuxtjs\\\\pages\\\\article"
+      }
+    ]
+  }
+]
